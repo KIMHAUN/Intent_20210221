@@ -33,6 +33,7 @@
         android:layout_marginTop="20dp"/>
 
     <TextView
+        android:id="@+id/nicknameTxt"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="헬로우월드"
@@ -44,6 +45,7 @@
         android:layout_weight="1"/>
 
     <Button
+        android:id="@+id/changeNicknameBtn"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="변경"/>
