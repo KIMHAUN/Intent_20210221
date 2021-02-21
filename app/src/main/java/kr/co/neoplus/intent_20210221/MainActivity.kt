@@ -33,7 +33,6 @@ class MainActivity : AppCompatActivity() {
 
             startActivity(myIntent)
 
-
         }
     }
 }
